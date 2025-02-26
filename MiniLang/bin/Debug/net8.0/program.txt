@@ -1,0 +1,34 @@
+﻿int x=3;
+
+struct Persoana
+{
+int varsta;
+Persoana(int v) {
+	varsta=v;
+	}
+~Persoana();
+int esteMajor() {
+	if(varsta<18) return 0;
+	return 1;
+	}	
+};
+
+int factorial(int n)
+{
+int n = 0;
+return n*factorial(n-1);
+}
+
+int factorial(int n)
+{
+int n = 0;
+return n*factorial(n-1);
+}
+
+int main()
+{
+    factorial(7);
+    factoria(7);
+	Persoana a(20);
+	return a.esteMajor();
+}

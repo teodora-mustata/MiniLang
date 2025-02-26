@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\program.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|Solution Items{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\iesire.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|Solution Items{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|solutionrelative:MiniLang\\bin\\Debug\\net8.0\\iesire.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|Solution Items{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\functii.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|Solution Items{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|solutionrelative:MiniLang\\bin\\Debug\\net8.0\\functii.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\minilang.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\minilang.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|Solution Items{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\structuri.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|Solution Items{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|solutionrelative:MiniLang\\bin\\Debug\\net8.0\\structuri.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\minilangvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\minilangvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\minilangparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\minilangparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\minilanglexer.tokens||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\minilanglexer.tokens||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\minilanglexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\minilanglexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\minilang.tokens||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\minilang.tokens||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|Solution Items{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\variabileGlobale.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|Solution Items{E62D4EF7-524B-42AC-98D2-6D022D79DBD1}|solutionrelative:MiniLang\\bin\\Debug\\net8.0\\variabileGlobale.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|c:\\users\\teodora\\desktop\\minilang\\minilang\\minilang\\minilang\\minilang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2C9B93A-B18A-48B7-A9C3-9E3CF4F93ED5}|MiniLang\\MiniLang.csproj|solutionrelative:minilang\\minilang.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiniLangVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLangVisitor.cs",
+              "RelativeDocumentMoniker": "MiniLang\\MiniLangVisitor.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLangVisitor.cs",
+              "RelativeToolTip": "MiniLang\\MiniLangVisitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:26:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniLangParser.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLangParser.cs",
+              "RelativeDocumentMoniker": "MiniLang\\MiniLangParser.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLangParser.cs",
+              "RelativeToolTip": "MiniLang\\MiniLangParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:26:56.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiniLangLexer.tokens",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLangLexer.tokens",
+              "RelativeDocumentMoniker": "MiniLang\\MiniLangLexer.tokens",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLangLexer.tokens",
+              "RelativeToolTip": "MiniLang\\MiniLangLexer.tokens",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T10:26:55.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiniLangLexer.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLangLexer.cs",
+              "RelativeDocumentMoniker": "MiniLang\\MiniLangLexer.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLangLexer.cs",
+              "RelativeToolTip": "MiniLang\\MiniLangLexer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:26:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MiniLang.tokens",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLang.tokens",
+              "RelativeDocumentMoniker": "MiniLang\\MiniLang.tokens",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLang.tokens",
+              "RelativeToolTip": "MiniLang\\MiniLang.tokens",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T10:06:14.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.txt",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\program.txt",
+              "RelativeDocumentMoniker": "MiniLang\\program.txt",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\program.txt",
+              "RelativeToolTip": "MiniLang\\program.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-25T15:01:22.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\Program.cs",
+              "RelativeDocumentMoniker": "MiniLang\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\Program.cs",
+              "RelativeToolTip": "MiniLang\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:42:35.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiniLang.g4",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLang.g4",
+              "RelativeDocumentMoniker": "MiniLang\\MiniLang.g4",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLang.g4",
+              "RelativeToolTip": "MiniLang\\MiniLang.g4",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-01T17:54:12.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iesire.txt",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\iesire.txt",
+              "RelativeDocumentMoniker": "MiniLang\\bin\\Debug\\net8.0\\iesire.txt",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\iesire.txt",
+              "RelativeToolTip": "MiniLang\\bin\\Debug\\net8.0\\iesire.txt",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-02T15:16:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "structuri.txt",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\structuri.txt",
+              "RelativeDocumentMoniker": "MiniLang\\bin\\Debug\\net8.0\\structuri.txt",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\structuri.txt",
+              "RelativeToolTip": "MiniLang\\bin\\Debug\\net8.0\\structuri.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-04T15:43:17.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "functii.txt",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\functii.txt",
+              "RelativeDocumentMoniker": "MiniLang\\bin\\Debug\\net8.0\\functii.txt",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\functii.txt",
+              "RelativeToolTip": "MiniLang\\bin\\Debug\\net8.0\\functii.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-02T20:05:49.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "variabileGlobale.txt",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\variabileGlobale.txt",
+              "RelativeDocumentMoniker": "MiniLang\\bin\\Debug\\net8.0\\variabileGlobale.txt",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\bin\\Debug\\net8.0\\variabileGlobale.txt",
+              "RelativeToolTip": "MiniLang\\bin\\Debug\\net8.0\\variabileGlobale.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-02T16:44:19.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MiniLang.csproj",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLang.csproj",
+              "RelativeDocumentMoniker": "MiniLang\\MiniLang.csproj",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\MiniLang\\MiniLang\\MiniLang\\MiniLang\\MiniLang.csproj",
+              "RelativeToolTip": "MiniLang\\MiniLang.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T15:00:49.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

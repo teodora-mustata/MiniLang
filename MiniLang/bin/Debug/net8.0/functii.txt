@@ -1,0 +1,24 @@
+Funcție: factorial
+- Tip: int
+- Parametri: n
+- IsMain: False
+- IsRecursive: True
+- Variabile locale:
+- Structuri de control:
+
+Funcție: factorial
+- Tip: int
+- Parametri: n
+- IsMain: False
+- IsRecursive: True
+- Variabile locale:
+- Structuri de control:
+
+Funcție: main
+- Tip: int
+- Parametri: 
+- IsMain: True
+- IsRecursive: False
+- Variabile locale:
+- Structuri de control:
+

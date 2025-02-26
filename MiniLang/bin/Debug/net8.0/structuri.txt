@@ -1,0 +1,6 @@
+Structură: Persoana
+- Declarație la linia: 3
+- Variabilă: varsta (int)
+- Constructor: Persoana
+- Destructor: ~Persoana
+- Metodă: esteMajor
